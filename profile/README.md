@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+
+## Welcome to Spider's LAB!
+
+Let's engineer great products together
+
+🙋‍♀️ We're a team of full-stack developers specializing in quality and lean development of high performance Python, Django, Elixir, Phoenix, GraphQL, PostgreSQL, Java, Room applications
 
 <!--
 
